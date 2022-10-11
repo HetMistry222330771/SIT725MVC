@@ -1,0 +1,58 @@
+{
+
+  "name": "sit725-2022-t1-prac5",
+
+  "version": "1.0.0",
+
+  "description": " prac for SIT 725 2022",
+
+  "main": "server.js",
+
+  "scripts": {
+
+    "start": "node server.js"
+
+  },
+
+  "repository": {
+
+    "type": "git",
+
+    "url": "https://github.com/HetMistry222330771/SIT-T2-Prac5-MVC-.git"
+
+  },
+
+  "keywords": [
+
+    "Express",
+
+    "NodeJs"
+
+  ],
+
+  "author": "Het Mistry",
+
+  "license": "MIT",
+
+  "bugs": {
+
+    "url": "https://github.com/HetMistry222330771/SIT-T2-Prac5-MVC-/issues"
+
+  },
+
+  "homepage": "https://github.com/HetMistry222330771/SIT-T2-Prac5-MVC-#readme",
+
+  "dependencies": {
+
+    "cors": "^2.8.5",
+
+    "express": "^4.18.1",
+
+    "mongodb": "^4.9.0",
+
+    "socket.io": "^4.5.2"
+
+  }
+
+}
+
